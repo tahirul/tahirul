@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Tahir</h1>
-<h3 align="center">Graduate frontend developer from Suffolk, UK</h3>
+<h3 align="center">🎓 Graduate software developer from Suffolk, UK</h3>
+
+```javascript
+	const tahir = {
+		pronouns: "He" | "Him",
+		languages: [HTML, CSS, Javascript, Typescript, Python, Java],
+		tools: [React, Node, Tailwind, PyQT, Java Swing],
+		projects: {
+			tabNotes: "markdown notepad chrome extension for grouped tabs",
+			digraphSimulator: "vanilla webapp to draw digraphs and simulate traversal" 
+		},
+		about: {
+			degree: "Computer Science - University of Essex - 2026",
+			currentJob: "Phone/tablet/laptop repair technician - 9 years",
+			hobbies: ["Badminton", "hiking trails", "committing junior dev sins"]
+		},
+		goal: "Break into Software Engineering! 💪🏽"
+	}
+```
 
 - 🔭 I'm currently working on [TabNotes](https://github.com/tahirul/TabNotes)
 
@@ -7,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/tahirul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tahirul/" height="30" width="40" /></a>
 <a href="https://instagram.com/t4kur1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t4kur1" height="30" width="40" /></a>
 </p>
 
