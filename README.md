@@ -21,7 +21,7 @@
 
 - 🔭 I'm currently working on [TabNotes](https://github.com/tahirul/TabNotes)
 
-- 📫 How to reach me **tahirul.s.islam@gmail.com**
+<img src="https://github.com/tahirul/TabNotes/blob/main/project_images/Screenshot%202026-05-29%20195743.png" alt="tab notes screenshot" width="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
